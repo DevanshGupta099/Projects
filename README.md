@@ -13,6 +13,7 @@ Beyond academics, I am deeply interested in exploring new technologies, contribu
 Contact
 Feel free to explore my projects and provide feedback. If you have any questions or would like to collaborate, don't hesitate to reach out. You can connect with me via LinkedIn or GitHub.
 Linkedin - https://www.linkedin.com/in/devansh-gupta-8a0a5b293/
+
 Gmail - devanshgupta092@gmail.com
 
 
